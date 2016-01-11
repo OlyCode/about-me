@@ -1,5 +1,7 @@
 #About Me
 
+![Photo](/photo.JPG)
+
 I am a programmer with a strong mathematical background and an interest in all aspects of  software development.
 
 #Resume
